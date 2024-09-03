@@ -1,0 +1,2 @@
+# NotWorkingOpenGl
+不知道为什么什么都不会显示的opengl学习实例，求助大佬们
