@@ -3,4 +3,6 @@
 
 
 编译使用的指令是gcc
+
+
 g++ main.cpp glad.o -o SR -lglfw -lGL -lglm
